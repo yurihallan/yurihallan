@@ -15,9 +15,9 @@ Sou desenvolvedor FrontEnd, gosto do mundo da programação e da tecnologia. :) 
    <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="40" height="40"/></code>&nbsp;
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/></code>&nbsp;
   <code><img src="https://cdn.iconscout.com/icon/free/png-256/css-37-226088.png" alt="CSS" width="40" height="40"/></code>&nbsp;
+  <code><img src="https://cdn.iconscout.com/icon/free/png-256/php-28-226043.png" alt="PHP" width="40" height="40"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="40" height="40"/></code>&nbsp;
   <code><img src="https://pngimg.com/uploads/mysql/mysql_PNG36.png" alt="Mysql" width="40" height="40"/></code>&nbsp;
- 
  </p>
  
  **Tecnologias que estou estudando:**
