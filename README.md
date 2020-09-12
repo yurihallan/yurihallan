@@ -1,21 +1,3 @@
-### Hi there 👋
-
-<!--
-**yurihallan/yurihallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Olá pessoal! 👋😀 
 
 ### Me chamo Yuri Hallan Vasconcelos de Souza.
@@ -40,6 +22,9 @@ Sou desenvolvedor FrontEnd, gosto do mundo da programação e da tecnologia. :) 
       <code><img src="https://user-images.githubusercontent.com/51785898/91358353-0cf44800-e7c9-11ea-9a54-0a988aa2837c.png" alt="Github" width="40" height="40"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358419-31502480-e7c9-11ea-9bb8-5124117e9a75.png" alt="AWS" width="40" height="40"/></code>&nbsp;
   <code><img src="https://user-images.githubusercontent.com/51785898/91358426-3319e800-e7c9-11ea-9df0-b5a207cecfce.png" alt="Typescript" width="40" height="40"/></code>&nbsp;
+ <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="40" height="40"/></code>&nbsp;
+ 
+ 
    </p>
 
 **Minha rede social**
