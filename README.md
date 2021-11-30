@@ -2,7 +2,7 @@
 
 ### Me chamo Yuri Hallan Vasconcelos de Souza.
 
-Sou desenvolvedor BackEnd, gosto do mundo da programação e da tecnologia. :) Aprendendo coisa novas todos os dias sobre o mundo Backend e suas tecnologias.
+Sou desenvolvedor BackEnd, gosto muito do mundo da programação. :) Aprendendo coisa novas todos os dias sobre o mundo Java e suas tecnologias.
 
 ### Meus objetivos: 
 * Melhorar ainda mais na área que tanto amo❤️
